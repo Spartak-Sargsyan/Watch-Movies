@@ -1,8 +1,6 @@
-import React from "react";
-
 const Header = () => {
   return (
-    <nav>
+    <nav className="green darken-1">
       <div classNameName="nav-wrapper">
         <a href="#" className="brand-logo">
           React Movies
